@@ -3,9 +3,9 @@
     <!-- Nav Bar -->
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
-      {% if page.title != "about" %}
+      {% if page.title != "about" %} 
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-       {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+       {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }} {{ site.middle_name }}  {{ site.last_name }}</span> {% else %}{{ site.title }}{% endif %} <!-- mwelz Aug 7, 2021: expanded span to boldface the entre name -->
       </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
@@ -25,7 +25,7 @@
           <!-- About -->
           <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              about
+              About <!-- mwelz AUg 7, 2021: I capitalized 'about' !-->
               {% if page.title == "about" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
@@ -35,7 +35,7 @@
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
             <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              blog
+              Blog <!-- mwelz AUg 7, 2021: I capitalized 'blog' !-->
               {% if page.title == "blog" %}
               <span class="sr-only">(current)</span>
               {% endif %}
