@@ -34,8 +34,8 @@
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              Blog <!-- mwelz AUg 7, 2021: I capitalized 'blog' !-->
+            <!-- <a class="nav-link" href="{{ '/blog/' | relative_url }}">
+              Blog <!-- mwelz AUg 7, 2021: I capitalized 'blog'and commented out this line so that 'blog' isn't in header !-->
               {% if page.title == "blog" %}
               <span class="sr-only">(current)</span>
               {% endif %}
