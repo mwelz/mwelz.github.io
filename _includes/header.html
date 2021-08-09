@@ -42,6 +42,17 @@
             </a>
           </li>
           {% endif %}
+          
+          <!-- CV link -->
+          <li class="nav-item {% if page.url contains 'cv' %}active{% endif %}">
+            <a class="nav-link" target="_blank" href="{{ '/assets/pdf/mwelz-cv.pdf' | relative_url }}">
+              CV
+              {% if page.title == "cv" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}

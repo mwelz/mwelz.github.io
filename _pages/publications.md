@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: 
 years: [1956, 1950, 1935, 1905]
-nav: true
+nav: false
 ---
 
 To come!
