@@ -18,7 +18,7 @@ I am a second-year PhD candidate in statistics at the [Econometric Institute](ht
 <span class="font-weight-bold">This website is under construction, hence there might be broken links and placeholder elements!</span>
 
 
-My research iterests are (details are on my [research page]()):
+My research iterests are (see my [research page]({% link _pages/research-interests.md %}){:target="_blank"} for details):
 
 * Robust statistics with non-continuous data;
 * Mathematical statistics (Empirical processes and high-dimensional models);

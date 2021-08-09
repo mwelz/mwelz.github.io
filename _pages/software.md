@@ -28,7 +28,7 @@ I <em> exclusively</em> use open-source software to conduct my research and publ
 ### List of Published Software
 
 * <span class="font-weight-bold">genericML</span> ([mwelz/GenericML](https://github.com/mwelz/GenericML){:target="_base"})<br>
-  <span style="font-family:sans-serif;">R</span> implementation of generic machine learning inference as proposed by [Chernozhukov et al. (2020)](https://arxiv.org/abs/1712.04802){:target="_base"}. <span class="font-weight-bold">Under construction!</span> Click [here]({% link _projects/genericml.markdown %}){:target="_blank"} for a detailed description of this programming project. 
+  <span style="font-family:sans-serif;">R</span> implementation of generic machine learning inference as proposed by [Chernozhukov et al. (2020)](https://arxiv.org/abs/1712.04802){:target="_base"}. <span class="font-weight-bold">Under construction and not yet a package!</span> Click [here]({% link _projects/genericml.markdown %}){:target="_blank"} for a detailed description of this programming project. 
 
 
 
