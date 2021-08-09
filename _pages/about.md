@@ -20,8 +20,8 @@ I am a second-year PhD candidate in statistics at the [Econometric Institute](ht
 
 My research iterests are (details are on my [research page]()):
 
-* Robust statistics in non-continuous data;
-* Empirical process theory and high-dimensional statistics;
+* Robust statistics with non-continuous data;
+* Mathematical statistics (Empirical processes and high-dimensional models);
 * Statistical computing and computational statistics;
 * Applied statistics and field-specific problem solving, in particular in medicine, psychology, and economics.
 

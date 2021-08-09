@@ -5,7 +5,7 @@ nav: true
 dropdown: true
 children: 
     - title: Research Interests
-      permalink: /projects/
+      permalink: /research-interests/
     - title: divider
     - title: Projects
       permalink: /projects/
