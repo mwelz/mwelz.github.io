@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/news/announcement_2021_07_09/</loc>
+<lastmod>2021-07-09T13:59:00+02:00</lastmod>
+</url>
+<url>
 <loc>/news/announcement_2021_07_16/</loc>
 <lastmod>2021-07-16T21:59:00+02:00</lastmod>
 </url>
@@ -42,11 +46,11 @@
 </url>
 <url>
 <loc>/projects/1_project/</loc>
-<lastmod>2021-08-09T17:34:50+02:00</lastmod>
+<lastmod>2021-08-09T19:46:47+02:00</lastmod>
 </url>
 <url>
 <loc>/projects/citrus/</loc>
-<lastmod>2021-08-09T17:34:50+02:00</lastmod>
+<lastmod>2021-08-09T19:46:47+02:00</lastmod>
 </url>
 <url>
 <loc>/</loc>

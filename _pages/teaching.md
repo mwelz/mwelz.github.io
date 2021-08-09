@@ -15,7 +15,7 @@ Since the academic year 2020-21, I have been the main supervisor of five bachelo
 * <span class="font-weight-bold">[Academic Skills (Econometrics)](https://eur.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=EN&cursuscode=FEB22015X&collegejaar=2020){:target="_blank"}</span><br>
   <em>Spring 2021, Erasmus University (online), 4 ECTS. Course coordinator: [Evelot Westerink-Duijzer](https://www.eur.nl/en/people/evelot-westerink-duijzer){:target="_blank"}.<br>
   My Role: Teaching Assistant; total workload of 85 hours. </em><br>
-  In this course, 2nd year students of the bachelor program in econometrics learn essential research skills such as scientific writing, and presenting. I taught two groups of ~15 students each and graded the five individual assignments.<br>
+  In this course, 2nd year students of the bachelor program in econometrics learn essential research skills such as scientific writing, and presenting. I taught two groups of ~15 students each and graded the (individual) assignments (five in total).<br>
   Click [here]({{ '/assets/img/mwelz-evaluation_academic-skills_2020-21.png' | relative_url }}){:target="_blank"} for a snapshot of the evaluation of my tutorials (5-point scale with 5 = best).
   
 * <span class="font-weight-bold">[Seminar in Econometrics](https://eur.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=EN&cursuscode=FEB23012&collegejaar=2020){:target="_blank"}</span><br>
