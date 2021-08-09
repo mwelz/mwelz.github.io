@@ -16,7 +16,7 @@ Since the academic year 2020-21, I have been the main supervisor of five bachelo
   <em>Spring 2021, Erasmus University (online), 4 ECTS. Course coordinator: [Evelot Westerink-Duijzer](https://www.eur.nl/en/people/evelot-westerink-duijzer){:target="_blank"}.<br>
   My Role: Teaching Assistant; total workload of 85 hours. </em><br>
   In this course, 2nd year students of the bachelor program in econometrics learn essential research skills such as scientific writing, and presenting. I taught two groups of ~15 students each and graded the five individual assignments.<br>
-  Click <a target="_blank" href="{{ '/assets/img/mwelz-evaluation_academic-skills_2020-21.png' | relative_url }}">here</a> for a snapshot of the evaluation of my tutorials (5-point scale with 5 = best).
+  Click [here]({{ '/assets/img/mwelz-evaluation_academic-skills_2020-21.png' | relative_url }}){:target="_blank"} for a snapshot of the evaluation of my tutorials (5-point scale with 5 = best).
   
 * <span class="font-weight-bold">[Seminar in Econometrics](https://eur.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=EN&cursuscode=FEB23012&collegejaar=2020){:target="_blank"}</span><br>
   <em>Spring 2021, Erasmus University (online), 12 ECRS. Course coordinator: [Dick van Dijk](https://sites.google.com/view/dickvandijk/){:target="_blank"}. <br>
@@ -34,5 +34,5 @@ Since the academic year 2020-21, I have been the main supervisor of five bachelo
 * <span class="font-weight-bold">[Introduction to Multivariate Statistics](https://eur.osiris-student.nl/#/onderwijscatalogus/extern/cursus?taal=EN&cursuscode=FEB22003X&collegejaar=2019){:target="_blank"}</span><br>
   <em>Fall 2019, Erasmus University, 4 ECTS. Course coordinator: [Mikhail Zhelonkin](https://www.eur.nl/en/people/mikhail-zhelonkin){:target="_blank"}.<br>
   My Role: Teaching Assistant; total workload of 60 hours. </em><br>
-  In this course, 2nd year students of the bachelor program in econometrics are introduced to multivariate statistical methods. They learn how familiar statistical concepts such as the mean, variance, and normal distribution generalize to the <em>p</em>-dimensional space and are introduced to multivariate techniques such as PCA. I taught two groups of ~20 students each and graded their assignments (two in total) as well as the final examination (two exercises, ~150 students in total).<br>
-  Click <a target="_blank" href="{{ '/assets/img/mwelz-evaluation_multiv-stats-2019-20.png' | relative_url }}">here</a> for a snapshot of the evaluation of my tutorials (5-point scale with 5 = best).
+  In this course, 2nd year students of the bachelor program in econometrics are introduced to multivariate statistical methods. They learn how familiar statistical concepts such as the mean, variance, and normal distribution generalize to the <em>p</em>-dimensional space and are introduced to multivariate techniques such as PCA. I taught two groups of ~20 students each and graded their assignments (two in total) as well as the final examination (two exercises, ~150 students in total).<br> 
+  Click [here]({{ '/assets/img/mwelz-evaluation_multiv-stats-2019-20.png' | relative_url }}){:target="_blank"} for a snapshot of the evaluation of my tutorials (5-point scale with 5 = best).
