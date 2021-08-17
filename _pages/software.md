@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### Core Principles
-I <em> exclusively</em> use open-source software to conduct my research and publish all of my code and written software on [GitHub](https://github.com/mwelz){:target="_blank"}. My goal is that my research becomes easily reproducible for <em>everybody</em> and practically applicable for practitioners and other researchers. 
+I <em> exclusively</em> use open-source software in my research projects and make replication files publicly available. In the same spirit, all software written by me is open-souce and licensed with [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html){:target="_blank"}. You can find all of my code on my [GitHub](https://github.com/mwelz){:target="_blank"}. My goal is that my research becomes easily reproducible and practically applicable for for <em>everybody</em>. 
 
 <div class="caption">
     Visial summary of my principles: I use open-source software such as a Linux-based operating system to write open-source software (i.e. I license it with GPL), and make it publicly available on GitHub.
