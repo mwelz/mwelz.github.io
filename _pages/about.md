@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 I am a second-year PhD candidate in statistics at the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics){:target="_blank"} at the Erasmus University Rotterdam, where I am blessed to be supervised by [Patrick Groenen](https://www.eur.nl/people/patrick-groenen){:target="_blank"} and [Andreas Alfons](https://personal.eur.nl/alfons/){:target="_blank"}. I am also affiliated with the [Department of Public Health](https://www.publichealthrotterdam.com/){:target="_blank"} at Erasmus Medical Center (MC). 
 
 
-My research iterests are (see my [research page]({% link _pages/research-interests.md %}){:target="_blank"} for details):
+My research interests are (see my [research page]({% link _pages/research-interests.md %}){:target="_blank"} for details):
 
 * Robust statistics with non-continuous data;
 * Mathematical statistics (Empirical processes and high-dimensional models);
