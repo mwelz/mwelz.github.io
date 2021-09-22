@@ -12,7 +12,7 @@ nav: false
 
 0. <span class="font-weight-bold">Outlier Detection in Rating-Scale Data via Autoencoders</span><br>
    <u>Welz, M.</u> and Alfons, A.<br>
-   *International Conference on Robust Statistics 2021*, September 20--24, 2021, Vienna, Austria.<br>
+   [*International Conference on Robust Statistics 2021*](http://cstat.tuwien.ac.at/filz/icors2020/index.html#), September 20--24, 2021, Vienna, Austria.<br>
    [[slides](icors2021.pdf)]
 
 
