@@ -7,7 +7,14 @@ years: [1956, 1950, 1935, 1905]
 nav: false
 ---
 
-To come!
+### Conference Presentations ###
+{: reversed="reversed"}
+
+0. <span class="font-weight-bold">Outlier Detection in Rating-Scale Data via Autoencoders</span><br>
+   <span class="font-weight-bold">Welz, M.,</span> and Alfons, M.<br>
+   *International Conference on Robust Statistics 2021*, September 23, 2021, Vienna, Austria.<br>
+   [[slides](icors2021.pdf)]
+
 
 <!--
 ### Working Papers ###
