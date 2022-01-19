@@ -7,6 +7,21 @@ years: [1956, 1950, 1935, 1905]
 nav: false
 ---
 
+### Publications in Peer-Reviewed Journals ###
+
+{: reversed="reversed"}
+
+0. <span class="font-weight-bold"> Forecasting Real GDP Growth for Africa</span><br>
+   Franses, P.H. and <u> Welz, M.</u><br>
+   *Econometrics*, 10(1):3, 2022.<br>
+   [[open access](https://www.mdpi.com/2225-1146/10/1/3)] [[code](https://github.com/mwelz/sefm-africa)]
+
+0. <span class="font-weight-bold">Evaluating Heterogeneous Forecasts for Vintages of Macroeconomic Variables</span><br>
+   Franses, P.H. and <u> Welz, M.</u><br>
+   *Journal of Forecasting*, 2021.<br>
+   [[open access](https://onlinelibrary.wiley.com/doi/10.1002/for.2835)] [[code](https://github.com/mwelz/symbreg)]
+   
+
 ### Conference Presentations ###
 {: reversed="reversed"}
 
