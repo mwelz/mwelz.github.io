@@ -23,7 +23,7 @@ My research interests are:
 * Statistical computing and computational statistics;
 * Applied statistics and field-specific problem solving, in particular in medicine, psychology, and economics.
 
-Details cam be found on my [research page]({% link _pages/research-interests.md %}){:target="_blank"}. Moreover, I am a proud member of the [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/){:target="_blank"}, the [Institute of Mathematical Statistics](https://imstat.org/){:target="_blank"}, and the [International Association for Statistical Computing](https://iasc-isi.org/){:target="_blank"}.
+Details can be found on my [research page]({% link _pages/research-interests.md %}){:target="_blank"}. Moreover, I am a proud member of the [Open Science Community Rotterdam](https://www.openscience-rotterdam.com/home/){:target="_blank"}, the [Institute of Mathematical Statistics](https://imstat.org/){:target="_blank"}, and the [International Association for Statistical Computing](https://iasc-isi.org/){:target="_blank"}.
 
 If you want to get in touch, feel free to email me at <span style="color:black; font-family:sans-serif;">welz@</span><em>SPAM0</em><span style="color:black; font-family:sans-serif;">.nl</span> or <span style="color:black; font-family:sans-serif;">m.welz@</span><em>SPAM1</em><span style="color:black; font-family:sans-serif;">.nl</span>, but you need to replace <em>SPAM0</em> with <span style="color:black; font-family:sans-serif;">ese.eur</span> and <em>SPAM1</em> with <span style="color:black; font-family:sans-serif;">erasmusmc</span>, respectively. 
 
