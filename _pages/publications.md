@@ -23,12 +23,30 @@ nav: false
    
 
 ### Conference Presentations ###
+
 {: reversed="reversed"}
+
+0. <span class="font-weight-bold">Identifying periods of careless responding in rating-scale surveys</span><br>
+   <u>Welz, M.</u> and Alfons, A.<br>
+   [*ICORS 2022*](https://uwaterloo.ca/international-conference-robust-statistics/), July 5--9, 2022, Waterloo, ON, Canada.<br>
+   [[slides](icors2022.pdf)]
+
+0. <span class="font-weight-bold">Identifying periods of careless responding in rating-scale surveys</span><br>
+   <u>Welz, M.</u> and Alfons, A.<br>
+   [*SIPS 2022*](https://www.improvingpsych.org/SIPS2022/), June 27--29, 2022, Victoria, BC, Canada.<br>
+   [[slides](sips2022.pdf)]
+
+0. <span class="font-weight-bold">Generic Machine Learning Inference on Heterogeneous Treatment Effects Using the Package GenericML</span><br>
+   <u>Welz, M.</u>, Alfons, A, Demirer, M., and Chernozhukov, V.<br>
+   [*useR! 2022*](https://user2022.r-project.org/), June 20--23, 2022, online.<br>
+   [[slides](useR2022.pdf)]
 
 0. <span class="font-weight-bold">Outlier Detection in Rating-Scale Data via Autoencoders</span><br>
    <u>Welz, M.</u> and Alfons, A.<br>
    [*International Conference on Robust Statistics 2021*](http://cstat.tuwien.ac.at/filz/icors2020/index.html#), September 20--24, 2021, Vienna, Austria.<br>
    [[slides](icors2021.pdf)]
+   
+If you are interested in slides that I used in a seminar presentation, please let me know.
 
 
 <!--
