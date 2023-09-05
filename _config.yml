@@ -65,7 +65,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
 contact_note: >
-   Email addresses: welz@SPAM0.nl and m.welz@SPAM1.nl, but you need to replace SPAM0 with ese.eur and SPAM1 with erasmusmc, respectively.
+   Email addresses: welz@SPAM0.nl, m.welz@SPAM1.nl, welz@SPAM2.edu, but you need to replace SPAM0 with ese.eur, SPAM1 with erasmusmc, and SPAM2 with mit, respectively.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
