@@ -13,12 +13,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am PhD candidate in econometrics and statistics at the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics){:target="_blank"} at the Erasmus University Rotterdam since 2020, where I am blessed to be supervised by [Patrick Groenen](https://www.eur.nl/people/patrick-groenen){:target="_blank"} and [Andreas Alfons](https://personal.eur.nl/alfons/){:target="_blank"}. I am also affiliated with the [Department of Public Health](https://www.publichealthrotterdam.com/){:target="_blank"} at Erasmus Medical Center (MC). 
-
- <span style="font-weight:bold;">I am currently visiting Massachusetts Institute of Technology, upon invitation by [Victor Chernozhukov](https://www.victorchernozhukov.com/){:target="_blank"} and [Mert Demirer](https://www.mertdemirer.com/){:target="_blank"}.</span>
+I am PhD candidate in econometrics and statistics at the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics){:target="_blank"} at the Erasmus University Rotterdam since 2020, where I am blessed to be supervised by [Patrick Groenen](https://www.eur.nl/people/patrick-groenen){:target="_blank"} and [Andreas Alfons](https://personal.eur.nl/alfons/){:target="_blank"}. I am also affiliated with the [Department of Public Health](https://www.publichealthrotterdam.com/){:target="_blank"} at Erasmus Medical Center (MC). In fall 2023, I was a visiting Massachusetts Institute of Technology upon invitation by [Victor Chernozhukov](https://www.victorchernozhukov.com/){:target="_blank"} and [Mert Demirer](https://www.mertdemirer.com/){:target="_blank"}. In fall 2024, I will join the University of Zurich as a postdoctoral researcher in statistics.
 
 
-In my research, I develop statistical methods for the analysis of datasets in economics, health sciences, and management. My research is motivated by situations in which standard modeling assumptions fail to hold, for instance in discrete and/or noisy data of possibly high dimensionality. I currently work on econometric methods for robust estimation and inference in grouped data. 
+In my research, I develop statistical methods for the analysis of datasets in economics, health sciences, and management. My research is motivated by situations in which standard modeling assumptions fail to hold, for instance in discrete and/or noisy data of possibly high dimensionality. I currently work on statistical methods for robust estimation and inference in categorical data. 
 
 <!---
 My research interests are:
