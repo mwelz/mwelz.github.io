@@ -10,6 +10,12 @@ nav: true
 
 * <span class="font-weight-bold">GenericML</span> [[github](https://github.com/mwelz/GenericML){:target="_base"}] [[CRAN](https://cran.r-project.org/package=GenericML){:target="_base"}]<br>
   <span style="font-family:sans-serif;">R</span> implementation of generic machine learning inference as proposed by [Chernozhukov et al. (2020)](https://arxiv.org/abs/1712.04802){:target="_base"}.
+  
+* <span class="font-weight-bold">robcat</span> [[github](https://github.com/mwelz/robcat){:target="_base"}] [[CRAN](https://cran.r-project.org/package=robcat){:target="_base"}]<br>
+  <span style="font-family:sans-serif;">R</span> implementation of various robust estimators for categorical data, some of which proposed by my coauthors and myself.
+  
+* <span class="font-weight-bold">robcat</span> [[github](https://github.com/mwelz/carelessonset){:target="_base"}] <br>
+  <span style="font-family:sans-serif;">R</span> implementation of [Welz and Alfons (2024)](https://arxiv.org/abs/2303.07167){:target="_base"} for the detection of careless responding (or an absence thereof) in lengthy questionnaires.
 
 <br>
 
@@ -27,7 +33,7 @@ I <em> exclusively</em> use open source software in my research projects and mak
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/gpl.png' | relative_url }}" alt="" title="gpl"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/octocat.png' | relative_url }}" alt="" title="github"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/github-mark.png' | relative_url }}" alt="" title="github"/>
     </div>
 </div>
 
