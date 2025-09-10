@@ -50,16 +50,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: mwelz # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: mf_welz # your Twitter handle
+twitter_username: # mf_welz # your Twitter handle
 linkedin_username: max-welz # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: s2yPUnQAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-2945-1860 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.eur.nl/en/ese/people/max-welz # work page URL
+work_url: https://www.psychology.uzh.ch/en/areas/meth/methoden/team/maxwelz.html # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
