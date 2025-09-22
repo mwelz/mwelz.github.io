@@ -12,7 +12,7 @@
   Max  Welz
 
 
-  | blog
+  | CITRUS
 
 </title>
 <meta name="description" content="Website of Max Welz (PhD Candidate in Statistics @ Econometric Institute Rotterdam)
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/citrus/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -116,11 +116,9 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <!-- <a class="nav-link" href="/blog/">
               Blog <!-- mwelz AUg 7, 2021: I capitalized 'blog'and commented out this line so that 'blog' isn't in header !-->
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -135,8 +133,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -210,56 +206,46 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">CITRUS</h1>
+    <p class="post-description">In the CITRUS project, we use modern techniques from statistics and machine learning to identify treatment effect heterogeneity in cancer research.</p>
+  </header>
+
+  <article>
+    <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/citrus-wallpaper.jpeg" alt="" title="Stock image of lemons, obatined from unsplash.com, photographer: Jeremy Zero" />
+    </div>
+</div>
+
+<p><br /></p>
+
+<h3 id="general-information">General Information</h3>
+<p>CITRUS is an acronym for <em>Convergence for Individualizing TReatment Using Statistical approaches</em>. The CITRUS project is a collaboration between the <a href="https://www.eur.nl/en/ese/department-econometrics" target="_blank">Econometric Institute</a> and the <a href="https://www.publichealthrotterdam.com/" target="_blank">Department of Public Health</a> at Erasmus Medical Center (MC) and will be carried out by me, <a href="https://personal.eur.nl/alfons/" target="_blank">Andreas Alfons</a> (Econometric Institute), and Kevin ten Haaf (Erasmus MC). This project is funded by a ~€20,000 grant of the Dutch <a href="https://convergencealliance.nl/" target="_blank">Convergence Alliance</a> and will be active between August 1, 2021, and December 31, 2021.</p>
+
+<h3 id="description">Description</h3>
+<p>It is well known that individual patients who receive the same treatment may have very different health outcomes. The concept that treatment effects vary across patients is known as heterogeneous treatment effects (HTE). Consequently, identifying the HTE for different interventions can help in tailoring medical interventions for each individual. Thus, personalized medicine has the potential to improve the balance of benefits and harms of individual treatment pathways. The presence of HTE in medicine is commonly assessed through evaluating treatment effects across specific subgroups (“one-variable-at-a-time” analyses). However, such methods are insufficient for this purpose, due to fundamental limitations such as low statistical power and multiplicity, which makes them prone to both false-negative and false-positive results.</p>
+
+<p>Recent guidelines such as <em>The Predictive Approaches to Treatment effect Heterogeneity (PATH) Statement </em> <a href="https://www.acpjournals.org/doi/full/10.7326/M18-3667" target="_blank">(Kent et al., Annals of Internal Medicine, 2020)</a> for identifying HTE across subgroups have recommended the application of predictive statistical modeling approaches and machine learning techniques to overcome these limitations. In particular, novel machine learning methods from the statistical literature have been suggested to allow for the accurate identification of HTE. However, limited comparative evaluations for identifying the HTE of medical interventions have been performed between machine learning-based methods and predictive statistical modeling approaches.</p>
+
+<p>CITRUS aims to perform a comparative evaluation of different machine learning methods and predictive statistical modeling approaches through simulation studies. We will design extensive simulation studies to answer the following research questions:</p>
+
+<ol>
+  <li><em>“Which methods are most eligible for identifying HTE in which scenario?”</em>;</li>
+  <li><em>“To what extent do common characteristics of medical data (e.g., low representation of risk factors, missing values, high dimensionality) affect the performance of these methods?”.</em></li>
+</ol>
+
+<h3 id="projected-outcome">Projected Outcome</h3>
+<ol>
+  <li>A publication in a peer-reviewed journal in medicine or statistics in which we publish our findings. Working paper versions will be continuously published on the <a href="https://arxiv.org/" target="_blank">arXiv</a>.</li>
+  <li>An open-source <span style="font-family:sans-serif;">R</span> package (published on the <a href="https://cran.r-project.org/" target="_blank">CRAN</a>) that incorporates the methods that we use in a user-friendly manner to promote their use in medical research.</li>
+</ol>
+
+<h3 id="context">Context</h3>
+<p>I strongly believe that techniques from modern statistics and machine learning can aid in solving statistical problems in medical research. Corresponding research collaborations are strongly encouraged by the Dutch <a href="https://convergencealliance.nl/" target="_blank">Convergence Alliance</a>, in which the three institutions <a href="https://www.tudelft.nl/en/" target="_blank">TU Delft</a>, <a href="https://www.erasmusmc.nl/en" target="_blank">Erasmus MC</a>, and <a href="https://www.eur.nl/en" target="_blank">Erasmus University Rotterdam</a> join forces to work on projects in medical research. This process is referred to as <em>convergence</em>. For that purpose, the Convergence Alliance has set up the <a href="https://www.tudelft.nl/evenementen/2021/tbm/open-mind-call-2021-health-and-technology" target="_blank">Open Mind Call</a> in which teams from these three institutions could apply for grants of up to €20,000 to fund interdisciplinary projects. I am humbled that the CITRUS project is one of the 22  projects (out of 124 applications) that were selected for funding.</p>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
-
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
+  </article>
 
 </div>
 
