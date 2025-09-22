@@ -19,7 +19,7 @@ I received my PhD from the [Econometric Institute](https://www.eur.nl/en/ese/dep
 
 My research is motivated by practical problems in empirical research in the health and social sciences, for which I develop new statistical methods, derive their theoretical properties, and package them in user-friendly open-source software. 
 
-My current research interests are centered around robustness in the analysis of categorical data, which was the topic of my [PhD thesis](https://pure.eur.nl/en/publications/robust-categorical-data-analysis){:target="_blank"}. For instance, the methods developed by me and my coauthors can be used to identify and account for careless responding in questionnaires. Details can be found on my [research page]({% link _pages/research-interests.md %}){:target="_blank"}.
+My current research interests are centered around robustness in the analysis of categorical data, which was the topic of my [PhD thesis](https://pure.eur.nl/en/publications/robust-categorical-data-analysis){:target="_blank"}. For instance, the methods developed by me and my coauthors can be used to identify and account for careless responding in questionnaires. Details can be found on my [research page]({% link _pages/research.md %}){:target="_blank"}.
 
 
 <!---
