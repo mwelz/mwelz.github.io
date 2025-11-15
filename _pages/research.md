@@ -15,6 +15,11 @@ Besides my methodological work in statistics, I enjoy working on applied problem
 
 ### Working papers ###
 
+* <span class="font-weight-bold"> Robust estimation of polyserial correlation</span><br>
+   <u>Welz, M.</u><br>
+   *Under review.* 
+   [[arXiv](https://arxiv.org/abs/2510.15632)]
+
 * <span class="font-weight-bold"> Robust estimation of polychoric correlation</span><br>
    <u>Welz, M.</u>, Mair, P., and Alfons, A.<br>
    *Under review.* 
@@ -42,8 +47,6 @@ Besides my methodological work in statistics, I enjoy working on applied problem
 ### Work in progress ##
 
 * <span class="font-weight-bold"> Robust estimation of structural equation models</span>, *with Patrick Mair and Andreas Alfons.*.
-
-* <span class="font-weight-bold"> Robust estimation of polyserial correlation</span>
 
 ### Publications in peer-reviewed journals ###
 
