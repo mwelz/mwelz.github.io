@@ -9,7 +9,28 @@ DEPLOY_BRANCH="gh-pages"
 
 USAGE_MSG="usage: deploy [-h|--help] [-u|--user] [-s|--src SRC_BRANCH] [-d|--deploy DEPLOY_BRANCH] [--verbose] [--no-push]"
 
-workflow_dispatch:
+name: Manual Workflow
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+        - dev
+        - staging
+        - prod
+      debug_enabled:
+        description: 'Enable debug mode'
+        required: false
+        type: boolean
+        default: false
+      version:
+        description: 'Version number'
+        required: true
+        type: string
 
 
 while [[ $# > 0 ]]; do
