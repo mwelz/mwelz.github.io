@@ -19,11 +19,6 @@ Besides my methodological work in statistics, I enjoy working on applied problem
    <u>Welz, M.</u><br>
    *Under review.* 
    [[arXiv](https://arxiv.org/abs/2510.15632)]
-
-* <span class="font-weight-bold"> Robust estimation of polychoric correlation</span><br>
-   <u>Welz, M.</u>, Mair, P., and Alfons, A.<br>
-   *Under review.* 
-   [[arXiv](https://arxiv.org/abs/2407.18835)]
    
 * <span class="font-weight-bold"> Robust estimation and inference for categorical data</span><br>
    <u>Welz, M.</u>.<br>
@@ -51,6 +46,11 @@ Besides my methodological work in statistics, I enjoy working on applied problem
 ### Publications in peer-reviewed journals ###
 
 {: reversed="reversed"}
+
+* <span class="font-weight-bold"> Robust estimation of polychoric correlation</span><br>
+   <u>Welz, M.</u>, Mair, P., and Alfons, A.<br>
+   *Psychometrika (forthcoming)*, 2025.  
+   [[open access](10.1017/psy.2025.10066)] [[code](https://github.com/mwelz/robust-polycor-replication)]
 
 0. <span class="font-weight-bold"> A comparative analysis of heterogeneity in lung cancer screening effectiveness in two randomised controlled trials</span><br>
    <u> Welz, M.</u>, van der Aalst, C., Alfons, A., Naghi, A., Heuvelmans, M., Groen, H. J., de Jong, P. A., Aerts, J., Oudkerk, M., de Koning, H., and ten Haaf, K.<br>
