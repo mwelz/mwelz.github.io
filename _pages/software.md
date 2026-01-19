@@ -2,7 +2,7 @@
 layout: page
 permalink: /software/
 title: Software
-description: An overview of my published software.
+description: An overview of software written by my coauthors and myself.
 nav: true
 ---
 
@@ -12,10 +12,13 @@ nav: true
   <span style="font-family:sans-serif;">R</span> implementation of generic machine learning inference as proposed by [Chernozhukov et al. (2020)](https://arxiv.org/abs/1712.04802){:target="_base"}.
   
 * <span class="font-weight-bold">robcat</span> [[github](https://github.com/mwelz/robcat){:target="_base"}] [[CRAN](https://cran.r-project.org/package=robcat){:target="_base"}]<br>
-  <span style="font-family:sans-serif;">R</span> implementation of various robust estimators for categorical data, some of which proposed by my coauthors and myself.
+  <span style="font-family:sans-serif;">R</span> implementation of various robust estimators for categorical data.
   
-* <span class="font-weight-bold">robcat</span> [[github](https://github.com/mwelz/carelessonset){:target="_base"}] <br>
+* <span class="font-weight-bold">carelessonset</span> [[github](https://github.com/mwelz/carelessonset){:target="_base"}] <br>
   <span style="font-family:sans-serif;">R</span> implementation of [Welz and Alfons (2024)](https://arxiv.org/abs/2303.07167){:target="_base"} for the detection of careless responding (or an absence thereof) in lengthy questionnaires.
+  
+* <span class="font-weight-bold">predmod</span> [[github](https://github.com/mwelz/predmod){:target="_base"}] <br>
+  <span style="font-family:sans-serif;">R</span> Predictive modeling for heterogeneous treatment effects in medicine.
 
 <br>
 
