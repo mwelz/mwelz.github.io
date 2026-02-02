@@ -13,13 +13,13 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Welcome to my website! I am a postdoc in statistics at [University of Zurich](https://www.uzh.ch/en.html){:target="_blank"} in the group of [Carolin Strobl](https://www.psychology.uzh.ch/en/areas/meth/methoden/team/carolinstrobl.html){:target="_blank"}. <span style="font-weight:bold;">In October 2025, I will be visiting the statistics department at London School of Economics, upon invitation by [Irini Moustaki](https://www.lse.ac.uk/statistics/people/irini-moustaki){:target="_blank"}.</span>
+Welcome to my website! I am a postdoc in statistics at [University of Zurich](https://www.uzh.ch/en.html){:target="_blank"} in the group of [Carolin Strobl](https://www.psychology.uzh.ch/en/areas/meth/methoden/team/carolinstrobl.html){:target="_blank"}. 
 
 I received my PhD from the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics){:target="_blank"} at Erasmus University Rotterdam in 2025, where I was blessed to be supervised by  [Patrick Groenen](https://www.eur.nl/people/patrick-groenen){:target="_blank"} and [Andreas Alfons](https://personal.eur.nl/alfons/){:target="_blank"}. In fall 2023, I was visiting Massachusetts Institute of Technology upon invitation by [Victor Chernozhukov](https://www.victorchernozhukov.com/){:target="_blank"} and [Mert Demirer](https://www.mertdemirer.com/){:target="_blank"}. I am also affiliated with the [Department of Public Health](https://www.publichealthrotterdam.com/){:target="_blank"} at Erasmus Medical Center (MC).
 
 My research is motivated by practical problems in empirical research in the health and social sciences, for which I develop new statistical methods, derive their theoretical properties, and package them in user-friendly open-source software. 
 
-My current research interests are centered around robustness in the analysis of categorical data, which was the topic of my [PhD thesis](https://pure.eur.nl/en/publications/robust-categorical-data-analysis){:target="_blank"}. For instance, the methods developed by me and my coauthors can be used to identify and account for careless responding in questionnaires. Details can be found on my [research page]({% link _pages/research.md %}){:target="_blank"}.
+My current research interests are centered around robustness in the analysis of categorical data, which was the topic of my [PhD thesis](https://pure.eur.nl/en/publications/robust-categorical-data-analysis){:target="_blank"}. For instance, the methods developed by me and my coauthors can be used to identify and account for careless responding in questionnaires. Details can be found on my [research page]({% link _pages/research.md %}){:target="_blank"}. My thesis was awarded the <span style="font-weight:bold;">2026 Dissertation Prize</span> of the international [Psychometric Society](https://www.psychometricsociety.org/){:target="_blank"} for the best dissertation in psychometrics.
 
 
 <!---
