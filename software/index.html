@@ -12,7 +12,7 @@
   Max  Welz
 
 
-  | blog
+  | Software
 
 </title>
 <meta name="description" content="Website of Max Welz (PhD Candidate in Statistics @ Econometric Institute Rotterdam)
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/software/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -116,11 +116,9 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <!-- <a class="nav-link" href="/blog/">
               Blog <!-- mwelz AUg 7, 2021: I capitalized 'blog'and commented out this line so that 'blog' isn't in header !-->
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -168,9 +166,11 @@
           
           
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/software/">
                 Software
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -210,56 +210,55 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>al-folio</h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Software</h1>
+    <p class="post-description">An overview of software written by my coauthors and myself.</p>
+  </header>
+
+  <article>
+    <h3 id="list-of-published-software">List of Published Software</h3>
+
+<ul>
+  <li>
+    <p><span class="font-weight-bold">GenericML</span> [<a href="https://github.com/mwelz/GenericML" target="_base">github</a>] [<a href="https://cran.r-project.org/package=GenericML" target="_base">CRAN</a>]<br />
+<span style="font-family:sans-serif;">R</span> implementation of generic machine learning inference as proposed by <a href="https://arxiv.org/abs/1712.04802" target="_base">Chernozhukov et al. (2020)</a>.</p>
+  </li>
+  <li>
+    <p><span class="font-weight-bold">robcat</span> [<a href="https://github.com/mwelz/robcat" target="_base">github</a>] [<a href="https://cran.r-project.org/package=robcat" target="_base">CRAN</a>]<br />
+<span style="font-family:sans-serif;">R</span> implementation of various robust estimators for categorical data.</p>
+  </li>
+  <li>
+    <p><span class="font-weight-bold">carelessonset</span> [<a href="https://github.com/mwelz/carelessonset" target="_base">github</a>] <br />
+<span style="font-family:sans-serif;">R</span> implementation of <a href="https://arxiv.org/abs/2303.07167" target="_base">Welz and Alfons (2024)</a> for the detection of careless responding (or an absence thereof) in lengthy questionnaires.</p>
+  </li>
+  <li>
+    <p><span class="font-weight-bold">predmod</span> [<a href="https://github.com/mwelz/predmod" target="_base">github</a>] <br />
+<span style="font-family:sans-serif;">R</span> Predictive modeling for heterogeneous treatment effects in medicine.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="core-principles">Core Principles</h3>
+<p>I <em> exclusively</em> use open source software in my research projects and make replication files publicly available. In the same spirit, all software written by me is open source and licensed with <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPL</a>. You can find all of my code on <a href="https://github.com/mwelz" target="_blank">GitHub</a>. My goal is that my research becomes easily reproducible and practically applicable for for <em>everybody</em>.</p>
+
+<div class="caption">
+    Visial summary of my principles: I use open source software such as a Linux-based operating system to write open-source software (i.e. I license it with GPL), and make it publicly available on GitHub.
+</div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/tux.png" alt="" title="tux" />
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/gpl.png" alt="" title="gpl" />
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/github-mark.png" alt="" title="github" />
+    </div>
+</div>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
-
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
+  </article>
 
 </div>
 
